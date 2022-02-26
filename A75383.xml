@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another declaration: wherein is rendred, a further account of the just grouuds [sic] and reasons of the dissolving the Parliament; by the Lord Generall and his Council of Officers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75383</idno>
+            <idno type="STC">Wing A3257</idno>
+            <idno type="STC">Thomason E693_17</idno>
+            <idno type="STC">ESTC R14862</idno>
+            <idno type="EEBO-CITATION">99859750</idno>
+            <idno type="PROQUEST">99859750</idno>
+            <idno type="VID">166507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166507)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E693[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another declaration: wherein is rendred, a further account of the just grouuds [sic] and reasons of the dissolving the Parliament; by the Lord Generall and his Council of Officers.</title>
+               </titleStmt>
+               <extent>5, 4-6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Brewer, and are to be sold at the Royal Exchange in Ccrnhil [sic].,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "May. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:166507:1" rendition="simple:additions"/>
+            <p>Another DECLARATION: Wherein is Rendred, A further Account of the juſt Grounds and Reaſons of the Diſſolving the PARLIAMENT; BY THE LORD GENERALL AND HIS COUNCIL of OFFICERS.</p>
+            <p>LONDON, Printed for T. Brewer, and are to be ſold at the Royal Exchange in Cornhil. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166507:2"/>
+            <pb n="3" facs="tcp:166507:2"/>
+            <head>Another DECLARATION WHEREIN Is rendred a further Account of the diſſo<g ref="char:EOLhyphen"/>lution of the late Parliament, by the Lord General and his Council of <hi>OFFICERS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the Lord had wonderfully own'd the Army at the Fight at Worceſter, by delivering into their hands and utterly diſſipating the publike Enemies of this Common-wealth; God ſet a ſtrong reſolution up<g ref="char:EOLhyphen"/>on the hearts of the Officers of the Army, to ſeek after the effecting of good things in all lawfull wayes; but alwayes being tender of doing any thing againſt Authority: And many of them made it their work, to be laying hold on all opportu<g ref="char:EOLhyphen"/>nities,
+<pb n="4" facs="tcp:166507:3"/>to perſwade and convince the Parliament men of their duty.</p>
+            <p>And finding them ſlow in their proceedings, they thought it their duty not to lie ſtill in perſwaſions, but to try in ſome more effectual way; whereupon in Auguſt laſt, there was a Petition from them pre<g ref="char:EOLhyphen"/>ſented to the Parliament; for which they had thanks and ſome word of encouragement, That they would vigorouſly go on to effect thoſe good things they deſired; and the Parliament then committed over the conſideration of them to ſeveral Committees, ſome of themſelves, and ſome others: At which, they ſeeing the Officers a little ſatisfied, they began ſo to claſh in their Counſel, that there was little a<g ref="char:EOLhyphen"/>greement; they then reigned in their old dull ſpirit, and thought, a may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuppoſed, (and no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with<g ref="char:EOLhyphen"/>out grounds) to indeavour the breaking o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ar<g ref="char:EOLhyphen"/>my, knowing them to be the onely Bug-bear in their way.</p>
+            <p>Theſe things might be inſtanced in many parti<g ref="char:EOLhyphen"/>culars but eſpecially in the laſt, in offering to reduce the army to ſo many leſs in number as came to one and thirty thouſand p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unds per menſem. The Offi<g ref="char:EOLhyphen"/>cers being willing to condiſcend what might be, did after Worceſter fight, reduce the army to ſeven hundred in a foot Regiment; and the horſe to ſixty
+<pb n="5" facs="tcp:166507:3"/>in a Troop, to ſave the Nation what might ſafely be from charge, which was all they conceived they could do with ſafety.</p>
+            <p>But the Officers ſeeing them rather active in ex<g ref="char:EOLhyphen"/>poſing the nations peace to danger by this; they thought they were bound vigorouſly to proſecute thoſe good things that was by them, in the behalf of the good people of the nation deſired; &amp; the Of<g ref="char:EOLhyphen"/>ficers ſet ſeveral dayes apart to ſeek the Lord, at which time it was ſet upon their hearts, that there was a duty incumbent upon them; and they appoin<g ref="char:EOLhyphen"/>ted a Comittee to confider of ſome particular things (as doth appear by the Letter ſent out by them) yet ſtill held up their Counſels and conſultations, what was fit for them to do, making it their daily work, to quicken and incite the beſt in the Houſe to do them<g ref="char:EOLhyphen"/>ſelves what was deſired; or might conduce to the good of the Nation, rather then the Army ſhould have any hand in the buſineſſe.</p>
+            <p>And the Officers of the army made it their ſole deſires to have a new Parliament, and lay aſide all o<g ref="char:EOLhyphen"/>ther conſiderations, clearly perceiving an impoſſi<g ref="char:EOLhyphen"/>bility for the honeſt men of the houſe, to carry on the good things that were ſo much longed for: then the Houſe ſeeing that the Officers would not be ſa<g ref="char:EOLhyphen"/>tisfied without ſome anſwer of their deſires, ſet a<g ref="char:EOLhyphen"/>bout
+<pb n="4" facs="tcp:166507:4"/>the Bill for a new Parliament, and went on with that; but (as clearly appear<g ref="char:EOLhyphen"/>ed) not ſo much to anſwer their deſires, as to effect their own ends in the thing, by paſ<g ref="char:EOLhyphen"/>ſing ſeveral things in that Act of dangerous conſequence</p>
+            <p>The Officers beholding, That the Bill would not anſwer the thing deſired, and be<g ref="char:EOLhyphen"/>ing altogether unwilling (if poſſible, to pre<g ref="char:EOLhyphen"/>vent it) to uſe any other way then entrea<g ref="char:EOLhyphen"/>ties: They uſed means to procure ſeveral meetings with divers of the Houſe, which they effected acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdingly; and when they met, the Officers freely laid open their hearts and thoughts to them, deſiring the like from the Members, which was promi<g ref="char:EOLhyphen"/>ſed: But after a full and naked diſcovering of their thoughts and hearts to the Parlia<g ref="char:EOLhyphen"/>ment men, their Reply to the Officers was, That they were not free to diſcourſe there; but when they were in the Houſe, they had
+<pb n="5" facs="tcp:166507:4"/>their Negatives and Affirmatives.</p>
+            <p>The Officers ſeeing themſelves thus dealt withal, held on their conſultations, and came to ſome conſiderations what was fit for them to do; and as often as opportu<g ref="char:EOLhyphen"/>nity offered, preſt the beſt of the Houſe to do thoſe good things deſired, and prevent further miſchief, telling them what they fea<g ref="char:EOLhyphen"/>red elſe would follow; yet all would not a<g ref="char:EOLhyphen"/>vail, but they went on in their old way.</p>
+            <p>This being clearly perceived, and that they went on vigorouſly with the Act, and ſome that had been averſe to it, now preſ<g ref="char:EOLhyphen"/>ſing it, the Officers they thought it either time now to ſtir, or never; whereupon they made another Application to the beſt of the Parliament men, who (with much in<g ref="char:EOLhyphen"/>treaty) gave ſome of them a meeting the night before; but for all that, divers of the chief of them were ſtrong the next morn<g ref="char:EOLhyphen"/>ing in proſecution to paſs the Act, for a
+<pb n="6" facs="tcp:166507:5"/>new Parliament to be called in November next: And if themſelves having paſſed it, had that day then adjourned, as probably they would have done (had they not been diſſolved) and by that means their Deſign fruſtrated, the whole Nation would have been in a ſad condition, and involved in a Labyrinth of new troubles; which through Gods goodneſs, by this way of diſſolving them, before it paſſed, is preven<g ref="char:EOLhyphen"/>ted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
